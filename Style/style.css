@@ -24,8 +24,7 @@ html {
 	line-height: 1.1;
 	padding-left: 0.3rem;
 	padding-top: 0.9rem;
-	background: linear-gradient(135deg, #645AA6 20%, #BA63C6 70%);
-	-webkit-text-fill-color: transparent;
+	color: #645AA6;
 	opacity: 0.8;
 }
 
@@ -80,7 +79,7 @@ html {
 
 .category a, .category-main-title-h2 {
 	text-decoration: none;
-	-webkit-text-fill-color: transparent;
+	color: #BA63C6;
 	opacity: 0.9;
 	text-align: center;
 	margin: 0;
